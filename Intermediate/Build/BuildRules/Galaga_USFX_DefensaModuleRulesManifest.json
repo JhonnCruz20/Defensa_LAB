@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Galaga_USFX_Defensa\\Source\\Galaga_USFX_Defensa\\Galaga_USFX_Defensa.Build.cs",
+		"F:\\Galaga_USFX_Defensa\\Source\\Galaga_USFX_Defensa.Target.cs",
+		"F:\\Galaga_USFX_Defensa\\Source\\Galaga_USFX_DefensaEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

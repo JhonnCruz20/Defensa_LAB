@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Galaga_USFX_Defensa",
+			"Path": "F:\\Galaga_USFX_Defensa\\Source\\Galaga_USFX_Defensa.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Galaga_USFX_DefensaEditor",
+			"Path": "F:\\Galaga_USFX_Defensa\\Source\\Galaga_USFX_DefensaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Galaga_USFX_Defensa.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4AC79142-A275-45FA-98F1-125FF82C0837}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Galaga_USFX_Defensa.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Galaga_USFX_DefensaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4F1D9423-40DF-4DB6-B63E-F2FF9408F89C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Galaga_USFX_Defensa">
+      <UniqueIdentifier>{0E30AA0D-EBDA-4B77-9528-C7374819AFD8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Galaga_USFX_Defensa\Galaga_USFX_Defensa.Build.cs">
+      <Filter>Source\Galaga_USFX_Defensa</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Galaga_USFX_Defensa\Galaga_USFX_Defensa.cpp">
+      <Filter>Source\Galaga_USFX_Defensa</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_Defensa\Galaga_USFX_Defensa.h">
+      <Filter>Source\Galaga_USFX_Defensa</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_Defensa\Galaga_USFX_DefensaGameMode.cpp">
+      <Filter>Source\Galaga_USFX_Defensa</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_Defensa\Galaga_USFX_DefensaGameMode.h">
+      <Filter>Source\Galaga_USFX_Defensa</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_Defensa\Galaga_USFX_DefensaPawn.cpp">
+      <Filter>Source\Galaga_USFX_Defensa</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_Defensa\Galaga_USFX_DefensaPawn.h">
+      <Filter>Source\Galaga_USFX_Defensa</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_Defensa\Galaga_USFX_DefensaProjectile.cpp">
+      <Filter>Source\Galaga_USFX_Defensa</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_Defensa\Galaga_USFX_DefensaProjectile.h">
+      <Filter>Source\Galaga_USFX_Defensa</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_Defensa\NaveEnemiga.cpp">
+      <Filter>Source\Galaga_USFX_Defensa</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_Defensa\NaveEnemiga.h">
+      <Filter>Source\Galaga_USFX_Defensa</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
