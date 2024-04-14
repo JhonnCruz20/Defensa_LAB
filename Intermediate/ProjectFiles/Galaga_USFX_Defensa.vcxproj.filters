@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Galaga_USFX_Defensa.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{4AC79142-A275-45FA-98F1-125FF82C0837}</UniqueIdentifier>
+      <UniqueIdentifier>{A75FC49B-4D9B-461A-B098-CA21370D2247}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Galaga_USFX_Defensa.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\Galaga_USFX_DefensaEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{4F1D9423-40DF-4DB6-B63E-F2FF9408F89C}</UniqueIdentifier>
+      <UniqueIdentifier>{A61B1EC1-8A4D-4C33-8F19-CF15103B0A98}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +32,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Galaga_USFX_Defensa">
-      <UniqueIdentifier>{0E30AA0D-EBDA-4B77-9528-C7374819AFD8}</UniqueIdentifier>
+      <UniqueIdentifier>{93BFCEFA-FC3C-48B0-9105-778A3B579B73}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Galaga_USFX_Defensa\Bomba.cpp">
+      <Filter>Source\Galaga_USFX_Defensa</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_Defensa\Bomba.h">
+      <Filter>Source\Galaga_USFX_Defensa</Filter>
+    </ClInclude>
     <None Include="..\..\Source\Galaga_USFX_Defensa\Galaga_USFX_Defensa.Build.cs">
       <Filter>Source\Galaga_USFX_Defensa</Filter>
     </None>

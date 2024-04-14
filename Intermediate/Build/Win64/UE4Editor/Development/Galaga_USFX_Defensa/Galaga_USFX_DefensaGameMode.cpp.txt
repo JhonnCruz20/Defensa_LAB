@@ -1,0 +1,19 @@
+F:\Galaga_USFX_Defensa\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Defensa\Definitions.Galaga_USFX_Defensa.h
+F:\Galaga_USFX_Defensa\Source\Galaga_USFX_Defensa\Galaga_USFX_DefensaGameMode.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+F:\Galaga_USFX_Defensa\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_Defensa\Galaga_USFX_DefensaGameMode.generated.h
+F:\Galaga_USFX_Defensa\Source\Galaga_USFX_Defensa\Galaga_USFX_DefensaPawn.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+F:\Galaga_USFX_Defensa\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_Defensa\Galaga_USFX_DefensaPawn.generated.h
+F:\Galaga_USFX_Defensa\Source\Galaga_USFX_Defensa\NaveEnemiga.h
+F:\Galaga_USFX_Defensa\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_Defensa\NaveEnemiga.generated.h
+F:\Galaga_USFX_Defensa\Source\Galaga_USFX_Defensa\Bomba.h
+F:\Galaga_USFX_Defensa\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_Defensa\Bomba.generated.h

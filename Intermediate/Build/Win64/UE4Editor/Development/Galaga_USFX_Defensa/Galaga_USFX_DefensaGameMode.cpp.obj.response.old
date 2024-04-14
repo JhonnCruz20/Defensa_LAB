@@ -262,11 +262,8 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"F:\Galaga_USFX_Defensa\Intermediate\Build\Win64\Galaga_USFX_DefensaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"F:\Galaga_USFX_Defensa\Intermediate\Build\Win64\Galaga_USFX_DefensaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"F:\Galaga_USFX_Defensa\Intermediate\Build\Win64\Galaga_USFX_DefensaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
 "F:\Galaga_USFX_Defensa\Source\Galaga_USFX_Defensa\Galaga_USFX_DefensaGameMode.cpp"
-/FI"F:\Galaga_USFX_Defensa\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Defensa\Definitions.Galaga_USFX_Defensa.h"
+/FI"F:\Galaga_USFX_Defensa\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Defensa\Definitions.h"
 /Fo"F:\Galaga_USFX_Defensa\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Defensa\Galaga_USFX_DefensaGameMode.cpp.obj"
 /TP
 /GR-

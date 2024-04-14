@@ -7,23 +7,22 @@
 #include "Galaga_USFX_DefensaGameMode.generated.h"
 
 class ANaveEnemiga;
+class ABomba; 
 
 UCLASS(MinimalAPI)
 class AGalaga_USFX_DefensaGameMode : public AGameModeBase
 {
 	GENERATED_BODY()
 
-public:
-	AGalaga_USFX_DefensaGameMode();
-
 protected:
-
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+	TArray<ANaveEnemiga* > TNavesEnemigas; 
+
+protected:
+	void LanzarBombasAleatorias(); 
+	FTimerHandle BombasAleatorias; 
 
 public:
-	ANaveEnemiga* NaveEnemiga;
+	AGalaga_USFX_DefensaGameMode(); 
 };
-
-
-

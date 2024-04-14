@@ -1,0 +1,5 @@
+F:\Galaga_USFX_Defensa\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Defensa\Definitions.Galaga_USFX_Defensa.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\Galaga_USFX_Defensa\Source\Galaga_USFX_Defensa/NaveEnemiga.h
+F:\Galaga_USFX_Defensa\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_Defensa\NaveEnemiga.generated.h

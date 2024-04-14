@@ -36,6 +36,10 @@ void EmptyLinkFunctionForGeneratedCodeNaveEnemiga() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_mallaNaveEnemiga_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_mallaNaveEnemiga;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_VelocidadY_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_VelocidadY;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -59,8 +63,16 @@ void EmptyLinkFunctionForGeneratedCodeNaveEnemiga() {}
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ANaveEnemiga_Statics::NewProp_mallaNaveEnemiga = { "mallaNaveEnemiga", nullptr, (EPropertyFlags)0x00100000000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ANaveEnemiga, mallaNaveEnemiga), Z_Construct_UClass_UStaticMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ANaveEnemiga_Statics::NewProp_mallaNaveEnemiga_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ANaveEnemiga_Statics::NewProp_mallaNaveEnemiga_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANaveEnemiga_Statics::NewProp_VelocidadY_MetaData[] = {
+		{ "Category", "Movimiento" },
+		{ "ModuleRelativePath", "NaveEnemiga.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ANaveEnemiga_Statics::NewProp_VelocidadY = { "VelocidadY", nullptr, (EPropertyFlags)0x0020080000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ANaveEnemiga, VelocidadY), METADATA_PARAMS(Z_Construct_UClass_ANaveEnemiga_Statics::NewProp_VelocidadY_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ANaveEnemiga_Statics::NewProp_VelocidadY_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ANaveEnemiga_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANaveEnemiga_Statics::NewProp_mallaNaveEnemiga,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANaveEnemiga_Statics::NewProp_VelocidadY,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ANaveEnemiga_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ANaveEnemiga>::IsAbstract,
@@ -89,7 +101,7 @@ void EmptyLinkFunctionForGeneratedCodeNaveEnemiga() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ANaveEnemiga, 1729456494);
+	IMPLEMENT_CLASS(ANaveEnemiga, 2914386682);
 	template<> GALAGA_USFX_DEFENSA_API UClass* StaticClass<ANaveEnemiga>()
 	{
 		return ANaveEnemiga::StaticClass();

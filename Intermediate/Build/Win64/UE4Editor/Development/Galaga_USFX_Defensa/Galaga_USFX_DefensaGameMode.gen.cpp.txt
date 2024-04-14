@@ -1,0 +1,9 @@
+F:\Galaga_USFX_Defensa\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Defensa\Definitions.Galaga_USFX_Defensa.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\Galaga_USFX_Defensa\Source\Galaga_USFX_Defensa/Galaga_USFX_DefensaGameMode.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Users\RYZEN 5\Documents\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+F:\Galaga_USFX_Defensa\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_Defensa\Galaga_USFX_DefensaGameMode.generated.h

@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeGalaga_USFX_Defensa_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x14489BD2,
-				0xD0339731,
+				0x2C6D8AEE,
+				0xC5574805,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
